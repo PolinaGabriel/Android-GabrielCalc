@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GabrielCalc</string>
+    <string name="MemorySave">MS</string>
+    <string name="MemoryRead">MR</string>
+    <string name="MemoryClear">MC</string>
+    <string name="MemoryPlus">M+</string>
+    <string name="MemoryMinus">M-</string>
+    <string name="Percent">%</string>
+    <string name="ClearEntry">CE</string>
+    <string name="ClearAll">C</string>
+    <string name="BackSpace">←</string>
+    <string name="Division">1/x</string>
+    <string name="PowerTwo">x²</string>
+    <string name="RadixTwo">√x</string>
+    <string name="Divide">/</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+    <string name="Multiple">*</string>
+    <string name="Four">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Minus">-</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Plus">+</string>
+    <string name="Negate">±</string>
+    <string name="Zero">0</string>
+    <string name="Comma">,</string>
+    <string name="Solve">=</string>
+</resources>
